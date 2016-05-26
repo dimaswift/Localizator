@@ -1,5 +1,0 @@
-c:\users\dimas\documents\visual studio 2015\Projects\String Localizator\String Localizator\bin\Debug\String Localizator.exe.config
-C:\Users\dimaswift\Documents\Visual Studio 2015\Projects\String Localizator\String Localizator\bin\Debug\String Localizator.exe.config
-C:\Users\dimaswift\Documents\Visual Studio 2015\Projects\String Localizator\String Localizator\obj\Debug\String Localizator.csprojResolveAssemblyReference.cache
-C:\Users\dimaswift\Documents\Visual Studio 2015\Projects\String Localizator\String Localizator\obj\Debug\String_Localizator.Properties.Resources.resources
-C:\Users\dimaswift\Documents\Visual Studio 2015\Projects\String Localizator\String Localizator\obj\Debug\String Localizator.csproj.GenerateResource.Cache

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace String_Localizator.Properties
+namespace Localizator.Properties
 {
 
 

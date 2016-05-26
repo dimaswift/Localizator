@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("String Localizator")]
+[assembly: AssemblyTitle("Localizator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("String Localizator")]
+[assembly: AssemblyProduct("Localizator")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("44d6f91b-4a70-46c1-92df-9c012915a749")]
+[assembly: Guid("12ccff23-18cd-4a88-bdee-17aac48a8fbf")]
 
 // Version information for an assembly consists of the following four values:
 //

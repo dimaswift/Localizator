@@ -1,0 +1,12 @@
+c:\users\dimas\documents\visual studio 2015\Projects\Localizator\Localizator\bin\Debug\Localizator.exe.config
+c:\users\dimas\documents\visual studio 2015\Projects\Localizator\Localizator\bin\Debug\Localizator.exe
+c:\users\dimas\documents\visual studio 2015\Projects\Localizator\Localizator\bin\Debug\Localizator.pdb
+c:\users\dimas\documents\visual studio 2015\Projects\Localizator\Localizator\obj\Debug\Localizator.csprojResolveAssemblyReference.cache
+c:\users\dimas\documents\visual studio 2015\Projects\Localizator\Localizator\obj\Debug\Localizator.Form1.resources
+c:\users\dimas\documents\visual studio 2015\Projects\Localizator\Localizator\obj\Debug\Localizator.Properties.Resources.resources
+c:\users\dimas\documents\visual studio 2015\Projects\Localizator\Localizator\obj\Debug\Localizator.csproj.GenerateResource.Cache
+c:\users\dimas\documents\visual studio 2015\Projects\Localizator\Localizator\obj\Debug\Localizator.exe
+c:\users\dimas\documents\visual studio 2015\Projects\Localizator\Localizator\obj\Debug\Localizator.pdb
+C:\Users\dimaswift\Documents\Visual Studio 2015\Projects\Localizator\Localizator\bin\Debug\Localizator.exe.config
+C:\Users\dimaswift\Documents\Visual Studio 2015\Projects\Localizator\Localizator\obj\Debug\Localizator.exe
+C:\Users\dimaswift\Documents\Visual Studio 2015\Projects\Localizator\Localizator\obj\Debug\Localizator.pdb

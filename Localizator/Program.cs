@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace String_Localizator
+namespace Localizator
 {
     static class Program
     {
